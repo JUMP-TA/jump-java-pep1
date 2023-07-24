@@ -16,6 +16,10 @@
 Follow the prompts above.  </br>
 This is your first group project!  Congratulatios on making it this far.  This project will test your basic Java, SQL, Agile, and Git competencies.  
 
+One person needs to set up the empty Java Project and commit it and push it to the main branch on GitHub.
+
+Then everyone should create and work on their own branches.  Follow the guidance from class on using Git and GitHub for collaberative coding.
+
 Please adhere to the points below as well as the prompts: </br>
 
 <ul>
