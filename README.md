@@ -1,15 +1,15 @@
 # jump-java-pep1
 
 **Project Overview:** </br>
-<img width="808" alt="Project Overview" src="https://jump-java-daily-hw-prompts.s3.amazonaws.com/Project+%231+-+Progress+Tracker+Project+(Prod.+Eng.)+-+16+hr+_+Shift+Class+Version.pdf">
+<a href="https://jump-java-daily-hw-prompts.s3.amazonaws.com/Project+%231+-+Progress+Tracker+Project+(Prod.+Eng.)+-+16+hr+_+Shift+Class+Version.pdf">Product Overview</a>
 </br>
 
 **Product Requirements Document (PRD):** </br>
-<img width="808" alt="PRD" src="https://jump-java-daily-hw-prompts.s3.amazonaws.com/Project+%231+PRD.pdf">
+<a href="https://jump-java-daily-hw-prompts.s3.amazonaws.com/Project+%231+PRD.pdf">PRD</a>
 </br>
 
 **Presentation Guidelines:** </br>
-<img width="808" alt="Presentation Guidance" src="https://jump-java-daily-hw-prompts.s3.amazonaws.com/PEP+Presentation+Expectations.pdf">
+<a href="https://jump-java-daily-hw-prompts.s3.amazonaws.com/PEP+Presentation+Expectations.pdf">Presentation Guidelines</a>
 </br>
 
 **Assignment:** </br>
